@@ -1,5 +1,5 @@
 # DB-Students
-
+![Banner](baner.jpg)
 ## Acerca de Nosotros
 DB-Students es una organización creada por estudiantes de ingeniería informática dedicada a la colaboración y aprendizaje en el campo de las bases de datos. Nuestro objetivo es compartir conocimientos, trabajar en proyectos conjuntos y mejorar nuestras habilidades en el manejo y administración de bases de datos.
 
